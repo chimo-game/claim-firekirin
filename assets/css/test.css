@@ -17,6 +17,13 @@ body {
   backdrop-filter: blur(6px);
   transition: all 200ms linear;
 }
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .show-btn {
   background: #fff;
   padding: 10px 20px;
