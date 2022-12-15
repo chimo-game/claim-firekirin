@@ -24,6 +24,9 @@ body {
   justify-content: center;
 }
 
+img {
+  width: 50%;
+}
 .show-btn {
   background: #fff;
   padding: 10px 20px;
