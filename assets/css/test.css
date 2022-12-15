@@ -27,16 +27,15 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-input[type="checkbox"] {
+/* input[type="checkbox"] {
   display: none;
-}
+} */
 .container {
-  display: none;
+  display: relative;
   background: #fff;
-  max-width: 510px;
+  width: 370px;
   height: auto;
-  width: 400px;
-  padding: 30px;
+  padding: 25px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
 }
 #show:checked ~ .container {
